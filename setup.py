@@ -10,7 +10,7 @@ setup(name='modulename',
     long_description=readme(),
     url='https://github.com/',
     author='Fame',
-    author_email='natthapol.m@outlook.com',
+    author_email='natthapolmnc@outlook.com',
     license='',
     install_requires=[
     ],
